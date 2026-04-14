@@ -10,7 +10,4 @@ My goal was to provide a smoother and more reliable experience.
 
 ## 🖥 How to use
 
-Open [this link](http://localhost:3000]() to view the app in your browser.
-
-
 Open [this link](https://jenskauteren.github.io/Aha-Halo-Web) to view the app in your browser.
