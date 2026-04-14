@@ -50,4 +50,4 @@ This is due to the software, we're doing everything we can to fix it!
 There are a lot of bugs! BE WARNED!
 ## 🖥 How to use
 
-Open [this link](http://ahahalo.github.io/Aha-Halo-Web/) to view the app in your browser.
+Open [this link](http://ahahalo.github.io/Aha-Halo-Web/) to use the app in your browser.
