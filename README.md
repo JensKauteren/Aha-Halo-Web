@@ -1,3 +1,5 @@
+<img width="1392" height="768" alt="Gemini_Generated_Image_ot90bsot90bsot90" src="https://github.com/user-attachments/assets/1b5d3514-8f66-4b5e-9e92-d416102e2730" />
+
 ## 💡 Overview
 
 I created Aha Halo Reborn as an alternative to the official software, which many users know can be slow, prone to crashes, and often suffers from stuttering. 
